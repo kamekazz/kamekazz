@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamekazz
-- 👀 I’m interested in flutter and python
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in flutter , python and Unity
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on any UI
 - 📫 How to reach me taveras78@gmail.com
 
